@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Andy%20R%20Terrel&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=21&height=300&section=header&text=Andy%20R%20Terrel&fontSize=90)
 
 
 ## Hi there 👋
