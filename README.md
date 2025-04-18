@@ -3,11 +3,7 @@
 
 ## Hi there 👋
 
-**aterrel/aterrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on CUDA Python
+- 🔭 I’m currently working on CUDA Python @ NVIDIA
 - 🌱 I’m currently learning graph neural nets
 - 👯 I’m looking to collaborate on DISCOVER Cookbook, gpu dsls
 - 😄 Pronouns: he / him
