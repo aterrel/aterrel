@@ -4,7 +4,6 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on CUDA Python @ NVIDIA
-- 🌱 I’m currently learning graph neural nets
 - 👯 I’m looking to collaborate on DISCOVER Cookbook, gpu dsls
 - 😄 Pronouns: he / him
 
